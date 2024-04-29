@@ -12,7 +12,7 @@
   width: 50%;
   height: 120px;
   border-radius: 0 0 30px 30px;
-  border: 2px solid var(--color-border);
+  border: solid 0.4px #bfbfbf7b;
   background-size: cover;
   background-position: center;
   cursor: pointer;

@@ -60,7 +60,7 @@ ul:hover li:hover ~ li:before {
   width: 384px;
   height: 120px;
   border-radius: 13px;
-  border: solid 1px var(--color-border);
+  border: solid 0.4px #bfbfbf7b;
   background-color: rgba(23, 19, 23, 0.2);
 }
 .logo {

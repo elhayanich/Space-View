@@ -17,7 +17,7 @@
   -webkit-backdrop-filter: blur(5px) saturate(153%);
   background-color: rgba(23, 19, 23, 1);
   border-radius: 12px;
-  border: 1px solid rgba(255, 255, 255, 0.125);
+  border: solid 0.4px #bfbfbf7b;
 }
 .img {
   width: 320px;
